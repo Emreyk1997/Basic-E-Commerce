@@ -1,0 +1,5 @@
+.Main-Container {
+    display: flex;
+    background-color: '#e9e8ed';
+    min-height: 100vh;
+}

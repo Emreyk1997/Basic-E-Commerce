@@ -1,0 +1,16 @@
+.mainDiv {
+    background-color: #d9d7db;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+.filterText {
+    text-align: start;
+    font-weight: 600;
+    font-size: 23;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: #c4c1c6;
+    padding: 9px;
+    margin-top: 50px;
+}

@@ -1,0 +1,17 @@
+.static-header {
+    /* background-color: #282c34; */
+    background-color: #e9e8ed;
+    height: 5vh;
+    min-height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 3vw;
+    border-width: 0;
+    border-bottom-width: 3px;
+    border-style: solid;
+    border-color: darkgray;
+  }
+  p {
+      font-size: large;
+  }

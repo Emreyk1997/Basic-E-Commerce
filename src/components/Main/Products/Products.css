@@ -1,0 +1,44 @@
+.cardsDiv {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    grid-template-rows: 1fr;
+    background-color: #c4c1c6;
+    margin-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.errorP {
+    padding: 70px 0;
+  text-align: center;
+}
+
+.exampleDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 12px;
+    padding-right: 25px;
+    margin-bottom: -25px;
+    margin-top: 8px;
+}
+
+.exampleDivIcons {
+    min-width: 20vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.p {
+    font-size: 22;
+    font-weight: 600;
+    background-color: #d3d2d5;
+    color: #525152;
+    padding: 10px;
+    min-width: 20vw;
+    padding-left: 15px;
+    text-align: start;
+}
